@@ -1,2 +1,2 @@
-# logo
-Created logo
+# EigenLayer
+Created EigenLayer Operator
